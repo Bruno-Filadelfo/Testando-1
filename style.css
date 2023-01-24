@@ -1,0 +1,63 @@
+body {
+    background-color:deepskyblue;
+    color: black;
+    
+}
+
+center {
+    background-color: rgba(25, 159, 212, 0.425);
+}
+
+a{
+    background-color:springgreen
+}
+
+strong {
+    color: black;
+}
+p {
+    color: black;
+}
+
+center {
+    font-size: 25px;
+}
+
+/* header {
+    height: 100px;
+    border: 7px dashed red;
+    background-color: aquamarine;
+    background-image: url(https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 8%;
+    background-origin: content-box;
+    background-clip: content-box;
+
+} */
+
+main {
+    color: white;
+    height: 100px;
+    border: 7px dashed red;
+    background-color: aquamarine;
+    background-image: url(https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 8%;
+    background-origin: content-box;
+    background-clip: content-box;
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    
+
+
+}
+
+
+
+
+
+
+
+
+ 
