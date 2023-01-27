@@ -1,0 +1,24 @@
+body {
+    background-color:rgba(29, 6, 160, 0.788);
+    color: black;
+}
+
+strong {
+    color: black;
+}
+
+center {
+    background-color:rgba(87, 16, 180, 0.801);
+}
+
+a {
+    background-color:rgb(50, 168, 204);
+}
+
+p {
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 35px;
+}
+
